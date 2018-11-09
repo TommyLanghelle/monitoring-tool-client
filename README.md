@@ -1,4 +1,3 @@
-# friend-uptime
 
 ## Project setup
 ```
